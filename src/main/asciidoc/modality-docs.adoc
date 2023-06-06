@@ -6,7 +6,7 @@ image::modality-logo-full-logo.png[]
 :favicon: ./modality-favicon.png
 
 
-=== Modality
+== Modality
 Modality is a free, open-source, hospitality-oriented booking system, currently in development. It will support significant event complexity, unmatched by any existing open-source solution.
 
 Modality will support:
