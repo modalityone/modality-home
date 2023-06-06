@@ -1,7 +1,10 @@
 image::modality-logo-full-logo.png[]
+:favicon: ./modality-favicon.png
 :icons: font
 :source-highlighter: pygments
-:favicon: modality-favicon.png
+
+[%notitle]
+== Modality
 
 
 === What is Modality?
@@ -31,9 +34,9 @@ Modality will be useful for:
 
 
 === Status
-Modality is in the early stages of active development, and we intend to release a functioning MVP by late-2023.
+Modality is in the early stages of active development, and we intend to release a functioning MVP by early-2024.
 
-Whilst the server and data models are complete, the clients have significant work remaining before they are viewable. Currently, only the Back-Office Desktop client (described below) can be compiled and run successfully from the IDE.
+Whilst the server and data models are complete, the clients have significant work remaining before they are viewable. Currently, only the Back-Office client can be compiled and run successfully from the IDE.
 
 
 === Open-source
