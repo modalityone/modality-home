@@ -1,13 +1,10 @@
 image::modality-logo-full-logo.png[]
-:favicon: ./modality-favicon.png
+:favicon:
 :icons: font
 :source-highlighter: pygments
 
-[%notitle]
-== Modality
 
 
-=== What is Modality?
 Modality is a free, open-source, hospitality-oriented booking system, currently in development. It will support significant event complexity, unmatched by any existing open-source solution.
 
 Modality will support:
@@ -57,7 +54,7 @@ Modality is developed using the following technologies:
 | Technology | Purpose | Version
 
 | link:https://www.oracle.com/java/technologies/downloads/[Java^] | Codebase | 18
-| link:https://openjfx.io/[JavaFX^] | Desktop + mobile user interfaces | 18
+| link:https://openjfx.io/[JavaFX^] | Mobile user interfaces | 18
 | link:https://docs.webfx.dev/[WebFX^] | Web user interfaces | Latest (Beta)
 |===
 
@@ -69,7 +66,7 @@ Modality is developed using the following technologies:
 | Application | Used By | Compilation Toolchain
 
 | Back-Office Web | Administrator | WebFX + GWT
-| Back-Office Mobile | Administrator | Gluon
+| Back-Office Tablet | Administrator | Gluon
 | Front-Office Web | Customer | WebFX + GWT
 | Front-Office Mobile | Customer | Gluon
 |===
@@ -107,7 +104,6 @@ Modality is developed using the following technologies:
 | link:https://flywaydb.org/[Flyway^] | Database schema updates | Latest
 |===
 
-The services are orchestrated by link:https://www.docker.com/products/docker-desktop/[Docker^] when running Modality on development machines (instructions given later in this document).
 
 
 === Layers
