@@ -1,10 +1,12 @@
 image::modality-logo-full-logo.png[]
-:favicon:
 :icons: font
+:toc:
+:toclevels: 1
 :source-highlighter: pygments
+:favicon: ./modality-favicon.png
 
 
-
+=== Modality
 Modality is a free, open-source, hospitality-oriented booking system, currently in development. It will support significant event complexity, unmatched by any existing open-source solution.
 
 Modality will support:
@@ -160,3 +162,8 @@ Modality uses the link:https://gluonhq.com/products/mobile/[Gluon^] toolchain to
 
 === Desktop apps
 Modality also provides desktop apps, which have exactly the same UI as the web apps generated from the same source. This is useful for developers, allowing Java code to be rapidly developed and tested via the desktop, before subsequent transpilation into JavaScript and mobile (which takes time).
+
+
+
+== Ready to get started?
+Head over to our link:https://docs.modality.one[Docs] page for steps on cloning the repository and building Modality on your local machine and cloud.
