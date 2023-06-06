@@ -11,7 +11,7 @@ jobs:
     env:
       web-push-repository-name:  'modality-netlify'
       web-push-repository-owner: 'mongoose-project'
-      web-push-branch: 'docs'
+      web-push-branch: 'main'
       web-push-username: ${{ github.actor }}
       web-push-email: ${{ secrets.API_GITHUB_EMAIL }}
       generated-docs-dir: ./target/generated-docs
