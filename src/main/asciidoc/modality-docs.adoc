@@ -1,4 +1,4 @@
-= Modality
+image::modality-logo-full-logo.png[]
 :icons: font
 :source-highlighter: pygments
 

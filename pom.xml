@@ -8,14 +8,6 @@
     <artifactId>modality-home</artifactId>
     <version>0.1.0-SNASHOT</version>
 
-    <pluginRepositories>
-        <pluginRepository>
-            <id>repository.spring.release</id>
-            <name>Spring GA Repository</name>
-            <url>https://repo.spring.io/release</url>
-        </pluginRepository>
-    </pluginRepositories>
-
     <build>
         <plugins>
             <plugin>
